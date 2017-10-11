@@ -15,4 +15,4 @@ class Dog
     puts "woof!"
   end
 
-  def
+end
